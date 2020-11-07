@@ -31,7 +31,7 @@ We added a sample dataset in the _data_task_1_2/_ folder. You can download the f
 
 For training a model, run,
 ```
-python3 trainer_task_1_2.py --bidirectional {0,1} --dash {0,1} --model {attn, lstm}
+python3 trainer_task_1_2.py --bidirectional {0,1} --dash {0,1} --model {attn, lstm} --task {'1', '2'}
 ```
 
 
