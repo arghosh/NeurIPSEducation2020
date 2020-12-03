@@ -4,7 +4,7 @@ This is the implementation of our submission in the [NeurIPS 2020 Education Chal
 
 > **User: _arighosh_** (Rank 3 in Task 1 and 2, and Rank 1 in Task 4 in the private leaderboard).
 
-# Reports
+## Reports
 
 [Option Tracing: Beyond Binary Knowledge Tracing](https://dqanonymousdata.blob.core.windows.net/neurips-public/papers/arigosh/task_1_2_edu_neurips_ghosh_lan.pdf)
 
