@@ -2,8 +2,13 @@
 
 This is the implementation of our submission in the [NeurIPS 2020 Education Challenge](https://competitions.codalab.org/competitions/25449).
 
-
 > **User: _arighosh_** (Rank 3 in Task 1 and 2, and Rank 1 in Task 4 in the private leaderboard).
+
+# Reports
+
+[Option Tracing: Beyond Binary Knowledge Tracing](https://dqanonymousdata.blob.core.windows.net/neurips-public/papers/arigosh/task_1_2_edu_neurips_ghosh_lan.pdf)
+
+[A Meta-learning Framework for Personalized Question Selection](https://dqanonymousdata.blob.core.windows.net/neurips-public/papers/arigosh/task_4_edu_neurips_ghosh_lan.pdf)
 
 ## Setups
 The requiring environment is as bellow:  
