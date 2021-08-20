@@ -4,6 +4,41 @@ This is the implementation of our submission in the [NeurIPS 2020 Education Chal
 
 > **User: _arighosh_** (Rank 3 in Task 1 and 2, and Rank 1 in Task 4 in the private leaderboard).
 
+## Updates
+We published an improved CAT algorithm [BOBCAT: Bilevel Optimization-Based Computerized Adaptive Testing](https://arxiv.org/pdf/2108.07386.pdf) in IJCAI 2021. The code is available at [Github](https://github.com/arghosh/BOBCAT). The proposed algorithm uses similar meta-learning framework used in our winning submission with the addition of a data-driven question selection algorithm. 
+
+If you find the code for Task 4 useful in your research then please cite  
+```(bash)
+@inproceedings{ghosh-bobcat,
+  title     = {BOBCAT: Bilevel Optimization-Based Computerized Adaptive Testing},
+  author    = {Ghosh, Aritra and Lan, Andrew},
+  booktitle = {Proceedings of the Thirtieth International Joint Conference on
+               Artificial Intelligence, {IJCAI-21}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Zhi-Hua Zhou},
+  pages     = {2410--2417},
+  year      = {2021},
+  month     = {8},
+  note      = {Main Track}
+  doi       = {10.24963/ijcai.2021/332},
+  url       = {https://doi.org/10.24963/ijcai.2021/332},
+}
+``` 
+
+We also published Option Tracing paper [Option Tracing: Beyond Correctness Analysis in Knowledge Tracing](https://arxiv.org/abs/2104.09043) in AIED 2021. The code is available at [Github](https://github.com/arghosh/OptionTracing). The paper compares several methods (including methods used for this challenge) for Option tracing.
+
+If you find the code for Task 1 and 2 useful in your research then please cite  
+```(bash)
+@inproceedings{ghosh2021option,
+  title={Option Tracing: Beyond Correctness Analysis in Knowledge Tracing},
+  author={Ghosh, Aritra and Raspat, Jay and Lan, Andrew},
+  booktitle={International Conference on Artificial Intelligence in Education},
+  pages={137--149},
+  year={2021},
+  organization={Springer}
+}
+``` 
+
 ## Reports
 
 [Option Tracing: Beyond Binary Knowledge Tracing](https://dqanonymousdata.blob.core.windows.net/neurips-public/papers/arigosh/task_1_2_edu_neurips_ghosh_lan.pdf)
